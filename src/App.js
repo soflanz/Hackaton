@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+            Get ready for a full-immersive tweet experience (with fireworks)
         </p>
         <a
           className="App-link"
